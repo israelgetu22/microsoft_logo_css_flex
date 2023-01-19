@@ -1,0 +1,30 @@
+div {
+  height: 200px;
+  width: 200px;
+}
+
+.lightorange-box {
+  background-color: coral;
+}
+
+.orange-box {
+  background-color: brown;
+}
+.blue-box {
+  background-color: aqua;
+}
+
+.green-box {
+  background-color: chartreuse;
+}
+.div-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 35px;
+}
+
+body {
+  background-color: black;
+}
